@@ -55,7 +55,7 @@ Photos can be **JPG, PNG or WebP, up to 10 MB each**. HEIC is not supported. Eac
 | Bring a friend | One photo each, then share the video in the group chat |
 | Couple’s version | A favorite photo of each of you, even when you cannot film together |
 | Family surprise | Two family members who want to join, then share with the rest of the family |
-| Try another scene | Keep the same photos and switch from kitchen to living-room, garage or rooftop |
+| Try another scene | Keep the same photos and switch from kitchen to living room, garage or rooftop |
 
 ## Wipe Me Down AI Pricing
 
